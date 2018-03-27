@@ -5,3 +5,8 @@ testprogram.templements
 E:/workespace3a/pyProject/testprogram/templements.py
 ~请按格式认真书写每行代码，如若不然你今天的代码就是别人明日的痛苦~
 '''
+for i in range(10):
+    if i == 3:
+        print(i)
+        
+    
